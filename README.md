@@ -1,1 +1,1 @@
-На данный момент это просто серстанный макет с применением HTML, CSS, BEM, SCSS. Футер и хедер сверстал в отдельных файлах и подключил их к index.html. В дальнейшем нужно добавить адаптива, интерактива с применением JS и может что-то ещё :-).
+At the moment it's just a layout using HTML, CSS, BEM, SCSS. Footer and header are built in separate files and connected to index.html. In the future I need to make the site adaptive, add interactive elements using JS and maybe something else :-).
